@@ -3,7 +3,7 @@
 
 Docker와 오토인코더 딥러닝 모델을 활용하여 웹 서버의 로그를 분석하고, 실시간으로 비정상적인 접근(해킹 시도, 시스템 오류 등)을 탐지하는 시스템입니다.
 
-![UI Screenshot](https://user-images.githubusercontent.com/your-username/your-repo/assets/screenshot.png) <!-- 이 부분은 나중에 실제 스크린샷으로 교체하세요 -->
+
 
 ---
 
