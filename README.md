@@ -46,7 +46,7 @@ Docker와 오토인코더 딥러닝 모델을 활용하여 웹 서버의 로그�
 
 1.  **저장소 복제**
     ```bash
-    git clone https://github.com/your-username/anomaly-detector.git
+    git clone https://github.com/minyj07/anomaly-detector.git
     cd anomaly-detector
     ```
 
